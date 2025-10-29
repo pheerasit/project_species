@@ -1,0 +1,5 @@
+myfile filter=lfs diff=lfs merge=lfs -text
+project filter=lfs diff=lfs merge=lfs -text
+Species filter=lfs diff=lfs merge=lfs -text
+flutter_species_02 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
